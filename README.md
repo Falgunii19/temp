@@ -1,3 +1,3 @@
 # temp
 
-It's just a temporary file.
+It's just a temporary repo.
